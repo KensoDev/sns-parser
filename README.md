@@ -1,5 +1,7 @@
 # Amazon SNS Lambda Parser
 
+[![Circle CI](https://circleci.com/gh/KensoDev/sns-parser.svg?style=svg)](https://circleci.com/gh/KensoDev/sns-parser)
+
 ![image](http://assets.avi.io/SimpleIcon_SNS.png)
 
 Amazon sends a lot of events to SNS. You can "subscribe" to those events using email/https/sms and of course now Lambda functions.
